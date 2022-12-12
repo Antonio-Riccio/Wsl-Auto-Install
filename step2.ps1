@@ -1,4 +1,7 @@
-Try {wsl --install}
+Try {
+    wsl --install
+    wsl --set-default-version 2
+}
 Catch {
     # Download 
     Write-Host "Wls is not install on the windows"
