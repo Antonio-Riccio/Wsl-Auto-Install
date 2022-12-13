@@ -7,6 +7,9 @@ Wsl auto install is a script to automatically install the linux subsystem (wsl) 
 Official guide link: https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
 
 # Step 1
+
+Run in PowerShell ./step1
+
 - 1 Active Windows Subsystem for Linux 
 
 ![Windows Subsystem for Linux](https://www.chimerarevo.com/wp-content/uploads/2016/04/wsl.jpg)
@@ -20,6 +23,8 @@ Official guide link: https://learn.microsoft.com/en-us/windows/wsl/install-manua
 ![WSL2 Kernel](https://evilsaint.com/media/markdown/2020/09/21/20b5093a-ed64-44f2-9f85-330caca77ad6.png)
 
 # Step 2 
+
+Run in PowerShell ./step2
 
 - 1 Install WSL and and set default version 2
 
